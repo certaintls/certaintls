@@ -8,11 +8,11 @@ HTTPS MiTM Online HTTPS communications via a browser, e.g. with an online servic
 CertainTLS consists of two parts: a multi-platform app, and a back-end server. The server periodically aggregates the root certificates from the [Google](https://android.googlesource.com/platform/system/ca-certificates/+/master/files/) ![Android pipeline](https://github.com/certaintls/certaintls.app/workflows/Android%20cron/badge.svg), [Apple](https://support.apple.com/en-us/HT210770) ![MacOS pipeline](https://github.com/certaintls/certaintls.app/workflows/MacOS%20cron/badge.svg), [Microsoft](https://ccadb-public.secure.force.com/microsoft/IncludedCACertificateReportForMSFT) ![Windows pipline](https://github.com/certaintls/certaintls.app/workflows/Windows%20cron/badge.svg) and [Mozilla](https://ccadb-public.secure.force.com/mozilla/IncludedCACertificateReport) ![Mozilla pipeline](https://github.com/certaintls/certaintls.app/workflows/Mozilla%20cron/badge.svg) certificate authority programs. CertainTLS's back end then analyze these certificates and mark the ones from the issuing companies in the countries whose [Freedom in the World](https://freedomhouse.org/countries/freedom-world/scores) score lower than **40** as **Untrustworthy**. The CertainTLS app scans both the root certificates shipped by the OS and user-installed trusted root certificates, then validates each of them against the CertainTLS back end's "source of truth," and displays the result in the app, i.e. flagging root certs which are being trusted but maybe shouldn't be. The app also supports OSes' specific way to distrust certificates. Due to different security models and the app's limitation as third-party tool in different OSes, the CertainTLS app currently supports Android, MacOS, and Windows (but not iOS), and the app's functionality on each platform differs slightly. To see exactly what features are supported on each platform, please [see](https://github.com/certaintls/certaintls.app/wiki/Supported-Features-on-Different-OS).
 
 ## Download the app
-### From the trusted distribution channel: (recommendated):
+#### From the trusted distribution channel: (recommended):
 
 <a href='https://play.google.com/store/apps/details?id=app.certaintls.flutter&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' height='80px'/></a>
 
-### From Github.com CertainTLS releases:
+#### From Github.com CertainTLS releases:
 [Download directly](https://github.com/certaintls/certaintls.app/releases)
 
 ## Contribution guidline
