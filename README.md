@@ -24,5 +24,7 @@ You are invited to contribute new features, fixes, or updates, large or small; w
 
 ## Privacy Policy
 
+[Read the CertainTLS privacy policy](https://github.com/certaintls/certaintls/blob/master/PRIVACY.md)
+
 ## Sponsorship
 The CertainTLS project is sponsored by [Counterpart International](https://www.counterpart.org/). Counterpart International is an NGO working in the international development sector. One of Counterpart International ’s projects, the ISC, enhances internet freedom by improving the defensive cybersecurity capabilities of local partners in developing countries.
