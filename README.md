@@ -29,4 +29,4 @@ You are invited to contribute new features, fixes, or updates, large or small; w
 [Read the CertainTLS privacy policy](https://github.com/certaintls/certaintls/blob/master/PRIVACY.md#privacy-statement---certaintls)
 
 ## Sponsorship
-CertainTLS' development was sponsored by [Counterpart International](https://www.counterpart.org/), an international NGO working in the civil society development sector. One of Counterpart’s efforts, the USAID-funded Information Safety & Capacity Project (ISC), enhances internet freedom by improving the defensive cybersecurity capabilities of local partners (rights-defending activists, journalists) in developing countries.
+CertainTLS' development was financed by the USAID-funded Information Safety & Capacity Project (ISC), a grant to [Counterpart International](https://www.counterpart.org/), an international NGO working in the civil society development sector. The ISC supports internet freedom by improving the defensive cybersecurity capabilities of local partners (rights-defending activists, journalists) in developing countries.
