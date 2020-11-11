@@ -16,7 +16,7 @@ CertainTLS consists of two parts: a multi-platform app, and a back-end server. T
 [Download directly](https://github.com/certaintls/certaintls.app/releases)
 
 ## Contribution guidline
-You are invited to contribute new features, fixes, or updates, large or small; we are always thrilled to receive pull requests, and do our best to process them as fast as we can. Besides the code, a reproduciable bug report or documentation improvement is also great contribution. To start filing bugs or asking questions, please use [Github issues](https://github.com/certaintls/certaintls.app/issues) of the Certaintls App.
+You are invited to contribute new features, fixes, or updates, large or small; we are always thrilled to receive pull requests, and do our best to process them as fast as we can. Besides the code, a reproducable bug report or documentation improvement is also great contribution. To start filing bugs or asking questions, please use [Github issues](https://github.com/certaintls/certaintls.app/issues) of the Certaintls App.
 
 ## Technical documentation
 * [CertainTLS App](https://github.com/certaintls/certaintls.app/blob/master/README.md)
@@ -27,4 +27,4 @@ You are invited to contribute new features, fixes, or updates, large or small; w
 [Read the CertainTLS privacy policy](https://github.com/certaintls/certaintls/blob/master/PRIVACY.md#privacy-statement---certaintls)
 
 ## Sponsorship
-The CertainTLS project is sponsored by [Counterpart International](https://www.counterpart.org/). Counterpart International is an NGO working in the international development sector. One of Counterpart International’s projects, the ISC, enhances internet freedom by improving the defensive cybersecurity capabilities of local partners in developing countries.
+The CertainTLS project is sponsored by [Counterpart International](https://www.counterpart.org/), an international NGO working in the civil society development sector. One of Counterpart’s efforts, the Information Safety & Capacity Project (ISC), enhances internet freedom by improving the defensive cybersecurity capabilities of local partners in developing countries.
