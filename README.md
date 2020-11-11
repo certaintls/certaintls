@@ -21,12 +21,12 @@ The impetus to develop CertainTLS came from *inter alia* the (allegedly Iranian)
 You are invited to contribute new features, fixes, or updates, large or small; we are always thrilled to receive pull requests, and do our best to process them as fast as we can. Besides the code, a reproducible bug report or documentation improvement is also welcome. To start filing bugs or asking questions, please use the CertainTLS app's [Github issues](https://github.com/certaintls/certaintls.app/issues).
 
 ## Technical documentation
-* [CertainTLS App](https://github.com/certaintls/certaintls.app/blob/master/README.md)
-* [CertainTLS Server](https://github.com/certaintls/certaintls.backend/blob/master/README.md)
+* [CertainTLS app](https://github.com/certaintls/certaintls.app/blob/master/README.md)
+* [CertainTLS server](https://github.com/certaintls/certaintls.backend/blob/master/README.md)
 
 ## Privacy Policy
 
 [Read the CertainTLS privacy policy](https://github.com/certaintls/certaintls/blob/master/PRIVACY.md#privacy-statement---certaintls)
 
 ## Sponsorship
-The CertainTLS project is sponsored by [Counterpart International](https://www.counterpart.org/), an international NGO working in the civil society development sector. One of Counterpart’s efforts, the Information Safety & Capacity Project (ISC), enhances internet freedom by improving the defensive cybersecurity capabilities of local partners in developing countries.
+CertainTLS' development was sponsored by [Counterpart International](https://www.counterpart.org/), an international NGO working in the civil society development sector. One of Counterpart’s efforts, the USAID-funded Information Safety & Capacity Project (ISC), enhances internet freedom by improving the defensive cybersecurity capabilities of local partners (rights-defending activists, journalists) in developing countries.
