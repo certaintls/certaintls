@@ -16,7 +16,7 @@ CertainTLS consists of two parts: a multi-platform app, and a back-end server. T
 [Download directly](https://github.com/certaintls/certaintls.app/releases)
 
 ## Contribution guidline
-You are invited to contribute new features, fixes, or updates, large or small; we are always thrilled to receive pull requests, and do our best to process them as fast as we can. Besides the code, a reproducable bug report or documentation improvement is also great contribution. To start filing bugs or asking questions, please use [Github issues](https://github.com/certaintls/certaintls.app/issues) of the Certaintls App.
+You are invited to contribute new features, fixes, or updates, large or small; we are always thrilled to receive pull requests, and do our best to process them as fast as we can. Besides the code, a reproducable bug report or documentation improvement is also great contribution. To start filing bugs or asking questions, please use [Github issues](https://github.com/certaintls/certaintls.app/issues) of the CertainTLS app.
 
 ## Technical documentation
 * [CertainTLS App](https://github.com/certaintls/certaintls.app/blob/master/README.md)
