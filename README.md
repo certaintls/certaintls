@@ -10,7 +10,7 @@ CertainTLS consists of two parts: a multi-platform app, and a back-end server. T
 The impetus to develop CertainTLS came from *inter alia* the (allegedly Iranian) 2011 DigiNotar hack, China's 2015 Great Cannon (not a root cert problem but, more generally, an authoritarian government's willingness to force domestic private actors to compromise a foreign internet asset's integrity), and the 2019 middling (by the КНБ) of all access to ~250 key foreign sites (including Facebook and Gmail) by all netizens using Kazakhstan's biggest ISP in that country's capital—supposedly "a test," but, well ...
 
 ## Download the app
-#### From the trusted distribution channel: (recommended):
+#### From the trusted distribution channel (recommended):
 
 <a href='https://play.google.com/store/apps/details?id=app.certaintls.flutter&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' height='80px'/></a>
 
