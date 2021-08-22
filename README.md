@@ -17,6 +17,10 @@ The impetus to develop CertainTLS came from *inter alia* the (allegedly Iranian)
 #### From github.com CertainTLS releases:
 [Download directly](https://github.com/certaintls/certaintls.app/releases)
 
+<a href='https://github.com/certaintls/certaintls.app/releases/download/1.4.3%2B9/certaintls-win-release-1.4.3.zip'><img alt='Download Windows version' src='https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg' height='80px'/> Certaintls Windowns release 1.4.3.zip</a>
+
+<a href='https://github.com/certaintls/certaintls.app/releases/download/1.4.1%2B7/certaintls-macos-release-1.4.1.app.zip'><img alt='Download MacOS version' src='https://upload.wikimedia.org/wikipedia/commons/3/30/MacOS_logo.svg' height='100px'/> Certaintls Mac release 1.4.1.zip</a>
+
 ## Contribution guidline
 You are invited to contribute new features, fixes, or updates, large or small; we are always thrilled to receive pull requests, and do our best to process them as fast as we can. Besides the code, a reproducible bug report or documentation improvement is also welcome. To start filing bugs or asking questions, please use the CertainTLS app's [GitHub issues](https://github.com/certaintls/certaintls.app/issues). You are also welcomed to submit your feedback or suggestion to certaintls@gmail.com.
 
